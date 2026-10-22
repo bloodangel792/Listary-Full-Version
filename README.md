@@ -239,4 +239,4 @@ This repository serves as the official landing page for Listary. The software is
 **Get the most recent version of Listary today!**
 
 ---
-**Last updated:** 2026-10-22 17:46:04 UTC
+**Last updated:** 2026-10-22 21:01:17 UTC
